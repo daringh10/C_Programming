@@ -1,2 +1,2 @@
 # CProgramming
-c help
+Various C Programming Projects
